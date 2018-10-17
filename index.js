@@ -30,6 +30,7 @@ function funkyFunction(){
     return 'FUNKY!'
   }
 }
+console.log("FUNKY!")
 
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
