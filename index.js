@@ -25,7 +25,9 @@ function funkyFunction(){
     
   }
   funkyFunction()
-  var funkyFunction = theFunk
+  var funkyFunction = function theFunk(){
+    
+  }
 }
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
