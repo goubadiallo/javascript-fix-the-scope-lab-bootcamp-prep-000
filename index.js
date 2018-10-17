@@ -35,7 +35,7 @@ var funkyFunction = theFunk
     
   }
 
-console.log('theFunk')
+console.log("FUNKY")
 
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
